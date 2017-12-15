@@ -69,5 +69,28 @@
        <<iframe width="560" height="315" src="https://www.youtube.com/embed/XAh_96u19TM"
        </iframe>
        <br>
-  </body>
+       <p><h1>The next videos are Unit 3 of Mr.Houghton's videos: CSS(important)</h1></p>
+       <br>
+       <p><h2>This is day 1 of Mr.Houghton's videos</h2></p>
+       <<iframe width="560" height="315" src="https://www.youtube.com/embed/brmn-_qJ_-A"
+       </iframe>
+       <p><h2>This is day 2 of Mr.Houghton's videos. Important</h2></p>
+       <<iframe width="560" height="315" src="https://www.youtube.com/embed/EbP38Vr0VB4"
+       </iframe>
+       <p><h2>This is day 3 of Mr.Houghton's videos</h2></p>
+       <<iframe width="560" height="315" src="https://www.youtube.com/embed/WXgZbnDUIto"
+       </iframe>
+       <p><h2>This is day 4 of Mr.Houghton's videos</h2></p>
+       <<iframe width="560" height="315" src="https://www.youtube.com/embed/3JImrlSjn9o"
+       </iframe>
+       <p><h2>This is day 5 of Mr.Houghton's videos</h2></p>
+       <<iframe width="560" height="315" src="https://www.youtube.com/embed/emozNUPq-Bw"
+       </iframe>
+       <p><h2>This is day 6 of Mr.Houghton's videos</h2></p>
+       <<iframe width="560" height="315" src="https://www.youtube.com/embed/kDqOYPtFlK0"
+       </iframe>
+       <p><h2>This is day 7/End of Unit 3 of Mr.Houghton's videos</h2></p>
+       <<iframe width="560" height="315" src="https://www.youtube.com/embed/S2ivzr1VZPo"
+       </iframe>
+       </body>
 </html>
